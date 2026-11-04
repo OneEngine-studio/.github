@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ oneEngine Studio
+# oneEngine Studio
 
 ### Next-Gen Real-Time Simulations • Adaptive AI • Cloud-Native Multiplayer
 
@@ -11,13 +11,13 @@
 
 </div>
 
-## 🌐 About oneEngine
+##  About oneEngine
 
 **oneEngine** is an independent game engineering studio and research team dedicated to pushing the boundaries of real-time interactive entertainment. We merge cutting-edge rendering pipelines, deep reinforcement learning agents, and distributed cloud game-server architectures to build living, reactive virtual worlds.
 
 ---
 
-## 🚂 Flagship Project: *Railbound*
+##  Flagship Project: *Railbound*
 
 > **A high-stakes tactical third-person shooter set in a volatile, moving train network battleground.**
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Technology Stack & Architecture
+##  Technology Stack & Architecture
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
@@ -41,7 +41,7 @@
 
 ---
 
-## 🤝 Getting Involved & Contributing
+##  Getting Involved & Contributing
 
 We welcome collaboration from gameplay engineers, graphics programmers, and ML researchers!
 
@@ -51,11 +51,11 @@ We welcome collaboration from gameplay engineers, graphics programmers, and ML r
 
 ---
 
-## 📬 Connect With Us
+##  Connect With Us
 
-* 🌐 **GitHub Organization:** [@OneEngine-studio](https://github.com/OneEngine-studio)
-* 💬 **Discussions & Feedback:** Check our repository Discussions tab
-* 📧 **Contact:** team@oneengine.dev
+*  **GitHub Organization:** [@OneEngine-studio](https://github.com/OneEngine-studio)
+*  **Discussions & Feedback:** Check our repository Discussions tab
+*  **Contact:** team@oneengine.dev
 
 <div align="center">
 <sub>Built with passion by the <b>oneEngine Studio</b> team. © 2026 oneEngine. All rights reserved.</sub>
