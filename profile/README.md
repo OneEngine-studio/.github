@@ -1,6 +1,6 @@
 <div align="center">
 
-# oneEngine Studio
+# OneEngine Studio
 
 ### Next-Gen Game Engineering • Full-Stack Web Development • Cloud-Native K8s & DevOps
 
